@@ -1,4 +1,17 @@
 **/**.jpg
 **/**.jpeg
 **/**.png
+<<<<<<< Updated upstream
 images/
+=======
+**/**.ashx
+**/**.webp
+**/**.jpg!d
+**/**.pth
+**/**.pkl
+**/**.json
+**/**.pt
+**/**.csv
+**/**.safetensors
+**/**.bin
+>>>>>>> Stashed changes

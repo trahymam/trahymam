@@ -1,4 +1,3 @@
 # trahymam
-This application made in Nuxt.JS.
-In Progress...
-Would live soon
+Here i am practicing FastAI course.
+Along with you could find Hinglish translation of Jeremy FastAI Books.
